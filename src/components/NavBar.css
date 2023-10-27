@@ -1,0 +1,43 @@
+.navbar-div {
+    background-color: rgba(216, 243, 222, 0.6);
+    position: sticky;
+    top: 0;
+    width: 100%;
+}
+.nav-name {
+    margin-left: 2em;
+    /* margin-right: 2em; */
+    width: 50%;
+
+}
+nav {
+    margin: 0;
+    margin-right: 2em;
+    padding: 1em 0;
+    position: sticky;
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+.name {
+    display: flex;
+    align-items: center;
+}
+
+.nav-pills .nav-link.active {
+    background-color: #8BBE97;
+    /* margin: 0 0.5em 0 .5em;  */
+    
+}
+
+.nav-link {
+    color: #42a255;
+}
+
+.nav-link:hover {
+    color:#116123;
+}
+
+

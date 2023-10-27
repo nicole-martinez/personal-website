@@ -1,0 +1,42 @@
+
+.main-container {
+    background-color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding: 15% 20%;
+    /* height: 80vh; */
+    margin-bottom: 10vh;
+}
+
+.profile-pic {
+    width: 60%;
+}
+.landing-left {
+    width: 40%;
+}
+
+.landing-right {
+    width: 60%;
+}
+
+
+/* animation */
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  .fade-in-image {
+    animation: fadeIn 5s;
+  }
+  
+  .fade-in-text {
+    font-size: 1em;
+    animation: fadeIn 8s;
+  }
+  

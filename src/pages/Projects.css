@@ -1,0 +1,16 @@
+#project-page {
+  padding-top: 10em;
+}
+.project-header {
+  color: #8bbe97;
+  font-size: 3em;
+  margin: 0 15%;
+  margin-bottom: 1em;
+}
+
+#project-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 15%;
+}

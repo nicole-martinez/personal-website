@@ -1,0 +1,38 @@
+.card {
+    margin-bottom: 1em;
+    display: flex;
+    flex-direction: row;
+}
+.card:hover {
+  transition: all .2s ease-in-out; 
+  transform: scale(1.01);
+  border-color: #7cab87;
+}
+
+.card-title {
+    margin: 0;
+}
+.card-subtitle {
+    margin-top: 0;
+    color: gray;
+}
+.card-logo {
+  width: 3em;
+  margin: 1em;
+  margin-left: 1.5em;
+  margin-bottom: 0;
+}
+
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+  }
+  
+.fade-in-card {
+    animation: fadeIn 2s;
+}
+  
+  .fade-in-text {
+    font-size: 1em;
+    animation: fadeIn 2s;
+  }

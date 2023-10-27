@@ -1,0 +1,13 @@
+.contact-icons {
+    display: flex;
+    margin-top: 2em;
+}
+
+.contact-icons img {
+    width: 2em;
+    margin-right: 1em;
+}
+
+.github {
+    margin-right: 1.35em;
+}
