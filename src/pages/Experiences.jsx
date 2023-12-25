@@ -18,7 +18,8 @@ function Experiences() {
           company="Codebase | Open Heart Kitchen"
           role="Mentored Software Developer"
           dates="September 2023 - present"
-          text="Designed and constructed a comprehensive full-stack web application to streamline the organization/management of employee shift scheduling, featuring a user-friendly dashboard, admin access framework, and an automated shift assignment algorithm. Developed a robust backend infrastructure using MySQL and Express.js to efficiently retrieve, organize, and edit functionality, therefore ensuring the seamless execution of data management and scheduling operations."
+          text = "Designed and built a full stack web application for Open Heart Kitchen to organize and manage schedule employee shifts. Developed a dashboard, admin access model, and auto-assign shifts algorithm for employees. Built a mySQL and Express.js back-end for data fetching, sorting, and editing functionalities."
+          // text="Designed and constructed a comprehensive full-stack web application to streamline the organization/management of employee shift scheduling, featuring a user-friendly dashboard, admin access framework, and an automated shift assignment algorithm. Developed a robust backend infrastructure using MySQL and Express.js to efficiently retrieve, organize, and edit functionality, therefore ensuring the seamless execution of data management and scheduling operations."
         ></ExperienceCard>
 
         <ExperienceCard
