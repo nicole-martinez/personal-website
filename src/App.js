@@ -3,7 +3,7 @@ import './App.css';
 import Navbar from './components/NavBar';
 import Landing from './components/Landing';
 import Experiences from './pages/Experiences';
-import FadeInSection from './components/FadeInSection';
+//import FadeInSection from './components/FadeInSection';
 import ContactPage from './pages/Contacts';
 import Projects from './pages/Projects';
 
