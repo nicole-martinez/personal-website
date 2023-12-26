@@ -18,13 +18,13 @@ function Experiences() {
           company="Codebase | Open Heart Kitchen"
           role="Mentored Software Developer"
           dates="September 2023 - present"
-          text = "Designed and built a full stack web application for Open Heart Kitchen to organize and manage schedule employee shifts. Developed a dashboard, admin access model, and auto-assign shifts algorithm for employees. Built a mySQL and Express.js back-end for data fetching, sorting, and editing functionalities."
-          // text="Designed and constructed a comprehensive full-stack web application to streamline the organization/management of employee shift scheduling, featuring a user-friendly dashboard, admin access framework, and an automated shift assignment algorithm. Developed a robust backend infrastructure using MySQL and Express.js to efficiently retrieve, organize, and edit functionality, therefore ensuring the seamless execution of data management and scheduling operations."
+          // text = "Designed and built a full stack web application for Open Heart Kitchen to organize and manage schedule employee shifts. Developed a dashboard, admin access model, and auto-assign shifts algorithm for employees. Built a mySQL and Express.js back-end for data fetching, sorting, and editing functionalities."
+          text="Designed and constructed a comprehensive full-stack web application to streamline the organization/management of employee shift scheduling, featuring a user-friendly dashboard, admin access framework, and an automated shift assignment algorithm. Developed a robust backend infrastructure using MySQL and Express.js to efficiently retrieve, organize, and edit functionality, therefore ensuring the seamless execution of data management and scheduling operations."
         ></ExperienceCard>
 
         <ExperienceCard
           logo={ngcLogo}
-          company="Consulting | Abbott Laboratories"
+          company="NextGen Consulting | Abbott Laboratories"
           role="Business Analyst"
           dates="February 2023 - May 2023"
           text="Conducted extensive market research and analysis across 15+ neuromodulation indications to determine a short-term expansion strategy for Abbott&rsquo;s neuromodulation sector, as well as new indications for the company&rsquo;s existing projects/medical devices. Identified potential areas of growth/differentiation and gaps in product offerings through competitive analysis on 7 competitors. Heightened Abbott&rsquo;s customer engagement and market leader position with 5 key AI web platform integration proposals."

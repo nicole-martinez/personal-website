@@ -1,9 +1,8 @@
-import React, { useState } from 'react';
-import './NavBar.css';
-
+import React, { useState } from "react";
+import "./NavBar.css";
 
 function Navbar() {
-  const [activeLink, setActiveLink] = useState('home'); // Initialize the active link
+  const [activeLink, setActiveLink] = useState("home"); // Initialize the active link
 
   // Function to handle button clicks and set the active link
   const handleButtonClick = (link) => {
@@ -15,31 +14,31 @@ function Navbar() {
       <nav className="nav nav-pills nav-fill">
         <h3 className="nav-name">nicole martinez</h3>
         <a
-          className={`nav-link ${activeLink === 'home' ? 'active' : ''}`}
+          className={`nav-link ${activeLink === "home" ? "active" : ""}`}
           aria-current="page"
           href="#"
-          onClick={() => handleButtonClick('home')}
+          onClick={() => handleButtonClick("home")}
         >
           home
         </a>
         <a
-          className={`nav-link ${activeLink === 'experience' ? 'active' : ''}`}
+          className={`nav-link ${activeLink === "experience" ? "active" : ""}`}
           href="#experience-page"
-          onClick={() => handleButtonClick('experience')}
+          onClick={() => handleButtonClick("experience")}
         >
           experience
         </a>
         <a
-          className={`nav-link ${activeLink === 'projects' ? 'active' : ''}`}
+          className={`nav-link ${activeLink === "projects" ? "active" : ""}`}
           href="#project-page"
-          onClick={() => handleButtonClick('projects')}
+          onClick={() => handleButtonClick("projects")}
         >
           projects
         </a>
         <a
-          className={`nav-link ${activeLink === 'contact' ? 'active' : ''}`}
+          className={`nav-link ${activeLink === "contact" ? "active" : ""}`}
           href="#contact-page"
-          onClick={() => handleButtonClick('contact')}
+          onClick={() => handleButtonClick("contact")}
         >
           contact
         </a>
@@ -62,9 +61,6 @@ export default Navbar;
 //         {/* <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Disabled</a>  */}
 //       </nav>
 //     </div>
-        
 
-
-    
 //   );
 // }
