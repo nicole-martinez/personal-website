@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/personal-website/static/css/main.7e0e5fe8.css",
+    "main.js": "/personal-website/static/js/main.158c6ae4.js",
+    "static/js/787.5809834d.chunk.js": "/personal-website/static/js/787.5809834d.chunk.js",
+    "static/media/prof-pic.jpg": "/personal-website/static/media/prof-pic.a93c45371b643ac188dd.jpg",
+    "static/media/prof-sq.jpeg": "/personal-website/static/media/prof-sq.14ce64d0d05aee6c809c.jpeg",
+    "static/media/greenblob.png": "/personal-website/static/media/greenblob.86c537b3e831320ad416.png",
+    "static/media/user.png": "/personal-website/static/media/user.9eab2a9285569961c8d9.png",
+    "static/media/ngc-logo-square.png": "/personal-website/static/media/ngc-logo-square.d1a77306ed3e0ad500d4.png",
+    "static/media/nav-white-background.png": "/personal-website/static/media/nav-white-background.686cc460e0ac611a525c.png",
+    "static/media/berkeley-codebase-logo.png": "/personal-website/static/media/berkeley-codebase-logo.b517a55fb2fe49b0b009.png",
+    "static/media/wave.svg": "/personal-website/static/media/wave.5a7be4cca7f797e65acb70eb4b8be5ce.svg",
+    "index.html": "/personal-website/index.html",
+    "main.7e0e5fe8.css.map": "/personal-website/static/css/main.7e0e5fe8.css.map",
+    "main.158c6ae4.js.map": "/personal-website/static/js/main.158c6ae4.js.map",
+    "787.5809834d.chunk.js.map": "/personal-website/static/js/787.5809834d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e0e5fe8.css",
+    "static/js/main.158c6ae4.js"
+  ]
+}
